@@ -4,6 +4,10 @@
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
+- label: 'Foundation'
+  items:
+    - label: 'Sprint 1'
+      link: '/sprints/sprint-1'
 - label: Usage
   items:
     - label: 'Creating docs'
